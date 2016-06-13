@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hello World!
+
+Learning how to git.
